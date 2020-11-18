@@ -1,0 +1,1 @@
+{"ast":null,"code":"function home() {\n  return;\n}\n\nexport default home;","map":{"version":3,"sources":["C:/Users/eleni/Documents/GitHub/My-Portfolio/pages/index.js"],"names":["home"],"mappings":"AAAA,SAASA,IAAT,GAAe;AACX;AACH;;AACD,eAAeA,IAAf","sourcesContent":["function home(){\r\n    return \r\n}\r\nexport default home"]},"metadata":{},"sourceType":"module"}

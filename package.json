@@ -1,0 +1,25 @@
+{
+  "name": "My-Portfolio",
+  "version": "1.0.0",
+  "description": "Site que tem o objetivo de mostra quem sou eu.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CezarGR/My-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CezarGR/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/CezarGR/My-Portfolio#readme",
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
